@@ -1,4 +1,4 @@
 # A
--alma
--körte
--barack
+- alma
+- körte
+- barack
