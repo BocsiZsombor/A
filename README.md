@@ -1,1 +1,4 @@
 # A
+-alma
+-körte
+-barack
